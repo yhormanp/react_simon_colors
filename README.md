@@ -1,3 +1,14 @@
+# React simon says colors
+
+This is a small version of simon says with colors
+
+created using just functional componentes and some hooks
+
+to start the application, just execute this command
+
+npm run start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
